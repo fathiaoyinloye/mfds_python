@@ -1,3 +1,0 @@
-class Dispenser:
-    def __init__(self):
-        ...

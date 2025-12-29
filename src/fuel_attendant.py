@@ -1,3 +1,0 @@
-class FuelAttendant:
-    def __init__(self):
-        ...
